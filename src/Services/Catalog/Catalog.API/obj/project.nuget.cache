@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "STD5no33QJo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maria Fernanda\\Documents\\GitHub\\EShopMicroservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maria Fernanda\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.1-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}
